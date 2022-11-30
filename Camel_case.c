@@ -9,6 +9,9 @@
   */
 #include <stdio.h>
 #include <string.h>
+/* it take pointer of first element of string
+ * and it print the result after process 
+ *  */
 void stringchallenge(char * str)
 {
   char *ptr = str;
