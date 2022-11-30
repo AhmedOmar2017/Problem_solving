@@ -46,7 +46,7 @@ void stringchallenge(char * str)
       } 
       else
       {
-        ptr++; ptr++;
+        ptr++; 
         ptr2++;
       }
    }
